@@ -1,0 +1,14 @@
+* {
+    background-color: bisque;
+}
+h1 {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    color: yellow;
+}
+p {
+    color: blue;
+    display: block;
+    text-align:center
+}
